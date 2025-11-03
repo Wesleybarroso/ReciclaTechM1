@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header {
+       display: flex;
+
+       justify-content: space-between; // alinhar os itens na horizontal 
+       align-items: flex-end; //alinhar os itens na vertical 
+
+       border: solid green 5px;
+       height: 10vh;
+
+     h1 {
+        background-color: red;
+     }
+     nav{
+        background-color: blue;
+     }
+}

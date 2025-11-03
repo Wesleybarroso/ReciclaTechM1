@@ -7,7 +7,7 @@
 header {
   display: flex;
   justify-content: space-between;
-  align-items: flex-end;
+  align-items: center;
   border: solid green 5px;
   height: 10vh;
 }
@@ -16,4 +16,8 @@ header h1 {
 }
 header nav {
   background-color: blue;
+  height: 10vh;
+  width: 40%;
+  display: flex;
+  align-items: center;
 }/*# sourceMappingURL=style.css.map */
